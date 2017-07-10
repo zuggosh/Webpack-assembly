@@ -1,13 +1,15 @@
 {
   "devDependencies": {
     "html-webpack-plugin": "^2.29.0",
+    "node-static": "^0.7.9",
     "webpack": "^3.1.0"
   },
   "name": "0.WebpackAssembly",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "webpack"
+    "start": "webpack --watch",
+    "serv": "static build"
   },
   "repository": "https://github.com/zuggosh/Webpack-assembly.git",
   "author": "Yakov Limanskiy <limanskiy1989@mail.ru>",
