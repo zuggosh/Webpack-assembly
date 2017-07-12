@@ -1,6 +1,8 @@
 # Webpack-assembly
 
-yarn install
+yarn install; //instal yarn in folder
 
-yarn run start    //start dev server
-yarn run serv     //compl build project
+yarn run start    //start dev server;
+
+
+yarn run serv     //compl build project;
